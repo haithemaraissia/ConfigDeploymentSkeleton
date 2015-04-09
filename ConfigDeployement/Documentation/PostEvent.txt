@@ -1,3 +1,8 @@
 ﻿if  $(ConfigurationName)  == Local xcopy "$(SolutionDir)ConfigurationProject\Local\*.*" "$(SolutionDir)MainWebApplication\" /Y
 if  $(ConfigurationName)  == Staging xcopy "$(SolutionDir)ConfigurationProject\Staging\*.*" "$(SolutionDir)MainWebApplication\" /Y
 
+
+
+
+CMD
+C:\Windows\system32>C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe "C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigDeployement.sln" /p:Configuration=Staging
