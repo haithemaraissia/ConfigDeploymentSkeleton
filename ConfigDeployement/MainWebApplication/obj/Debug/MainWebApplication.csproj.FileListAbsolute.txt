@@ -1,0 +1,5 @@
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\bin\MainWebApplication.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\bin\MainWebApplication.pdb
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\obj\Debug\MainWebApplication.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\obj\Debug\MainWebApplication.pdb
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\obj\Debug\MainWebApplication.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\bin\x86\Staging\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Staging\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Staging\ConfigurationProject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\bin\Release\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\bin\Release\ConfigurationProject.pdb
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Release\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Release\ConfigurationProject.pdb

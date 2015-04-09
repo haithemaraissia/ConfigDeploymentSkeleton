@@ -1,0 +1,4 @@
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\bin\MainWebApplication.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\bin\MainWebApplication.pdb
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\obj\Release\MainWebApplication.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\MainWebApplication\obj\Release\MainWebApplication.pdb

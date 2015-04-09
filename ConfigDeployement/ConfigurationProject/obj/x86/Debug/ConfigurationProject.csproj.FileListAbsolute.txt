@@ -1,0 +1,5 @@
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\bin\Debug\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\bin\Debug\ConfigurationProject.pdb
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Debug\ConfigurationProject.csprojResolveAssemblyReference.cache
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Debug\ConfigurationProject.dll
+C:\Users\haraissia\Documents\Visual Studio 2010\Projects\ConfigDeployement\ConfigurationProject\obj\x86\Debug\ConfigurationProject.pdb
